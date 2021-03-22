@@ -1,9 +1,11 @@
 h1 {
   text-align: center;
   color: blueviolet;
+  font-size: 50;
 }
 
 h2 {
   font-family: 30px;
   color: black;
+  text-align: center;
 }
